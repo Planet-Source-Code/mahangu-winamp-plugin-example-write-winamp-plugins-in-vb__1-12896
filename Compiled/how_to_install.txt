@@ -1,0 +1,23 @@
+HOW TO INSTALL THE PLUGIN
+=========================
+This plugin requires that you have Winamp installed. If you do not
+have it you can download it from www.winamp.com
+
+
+All you have to do is to put the following files in your Winamp
+plugins folder
+
+gen_Cool.Plugin.dll
+Cool.dll
+(DO NOT RENAME THE FILES)
+
+Inside the folder in which you installed Winamp you will find a sub
+folder named plugins..
+usually this folder is C:\Program Files\Winamp\Plugins
+
+If Winamp is open, close it.
+Then open Winamp and look under General Purpose Plugins..
+You will see the plugin!
+
+Comments, Suggestions and Bug Reports to 
+vbdude777@email.com
