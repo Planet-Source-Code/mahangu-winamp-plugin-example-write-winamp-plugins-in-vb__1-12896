@@ -1,0 +1,46 @@
+WINAMP PLUGIN IN VB
+===================
+VERSION 1.0.0
+=============
+
+Thanks
+------
+Thanks to Col Rjl and Nullsoft for the code and the Gen Wrapper DLL and
+documentation!
+
+Important Stuff
+---------------
+1)First in order to see the compiled version look in the
+'Compiled' folder.
+You will find the readme for the dlls in that folder.
+
+2)Next if you want to see the code goto the 'Code' folder.
+When you open the the project file VB might ask you for a type 
+library. Browse to the 'Code' folder and find the GenWrapper.tlb file
+and click OK.
+
+3)If you want to create your own plugin you can use my example or
+start from scratch by reading the template readme file in the 'Code'
+folder.
+
+System Requirements
+-------------------
+*Any Version of Winamp that supports plugins.
+*Visual Basic 6 (for source code).
+*Visual Basic 6 Runtimes (for compiled program).
+
+
+Known Bugs
+----------
+*While the plugin is open you cannot access Winamp.
+
+Beta Testing
+------------
+Tested on Winamp 2.64 on both Windows 98SE and Windows 2000.
+This plugin / source code should work with any version of Winamp that
+supports plugins.
+
+Contact Info
+------------
+Please email comments, suggestions and bug reports to 
+vbdude777@email.com
